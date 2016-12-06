@@ -1,0 +1,35 @@
+TTAN BANK - VEDE SOLUTIONS.
+VersÃ£o: 1.0 alpha
+Ano: 2016
+Relatorio: versao 1.0
+Data: Tue Dec 02 15:30:27 BRT 2016
+
+============================================================
+ID: 8
+NOME: Victor Nascimento
+CPF: 111.222.333-44
+AGENCIA: 77777
+CONTA: 444
+SENHA: 4D54497A4E4455324E7A673D
+SALDO: 60.00
+TIPO DA CONTA: Conta corrente
+
+
+ID: 7
+NOME: Emiliano de Freitas
+CPF: 555.555.555-55
+AGENCIA: 55555
+CONTA: 777
+SENHA: 4F546B354F513D3D
+SALDO: 60.00
+TIPO DA CONTA: Conta corrente
+
+
+suporte@titanbank.com
+
+Emiliano de Freitas
+Victor Nascimento
+Diogo Dornelas
+Edyara Araújo
+
+============================================================
